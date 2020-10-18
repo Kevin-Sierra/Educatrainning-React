@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Contenedor {
+  width: 100%;
+  height: 60px;
+  padding: 10px;
+  background: rgb(0, 194, 0);
+}
+
+.Nombre {
+  width: 40%;
+  height: 50px;
+  float: left;
+  font-size: 30px;
+}
+
+.Botones {
+  width: 60%;
+  height: 50px;
+  float: left;
+  text-align: right;
+}
+
+.Fondo {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.Fondo2 {
+  width: 100%;
+  height: 100%;
+}
+
+.Regresar {
+  margin: 15px;
+}
+
+.Contenedor2 {
+  width: 400px;
+  height: 400px;
+  background: rgb(88, 206, 88);
+  text-align: center;
+  display: table;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.Registrarse {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.Ingresar {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.Titulo_Planes{
+  width: max-content;
+  height: 50px;
+  font-size: 25px;
+  font-family: fantasy;
+  float: left;
+}
+
+.Contenedor3 {
+  width: 800px;
+  height: 800px;
+  margin: auto;
+  padding: 20px;
+  background: rgb(88, 206, 88);
+  text-align: center;
+  position: relative;
+}
+
+.Ejercicios {
+  width: max-content;
+  height: max-content;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
